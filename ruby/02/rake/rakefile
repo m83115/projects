@@ -1,0 +1,5 @@
+#在終端機執行 rake foo 之後，印出 bar
+
+task :foo do
+  puts "bar"
+end
